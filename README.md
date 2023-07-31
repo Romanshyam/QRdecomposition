@@ -57,7 +57,13 @@ QR_Decomposition(a)
 
 ```
 
+
+
+
 ## Output
+
+
+
 ![output](exp.png)
 
 
